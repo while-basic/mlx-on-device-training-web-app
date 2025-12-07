@@ -1,0 +1,5 @@
+{
+  "name": "MLX Trainer Studio",
+  "description": "A Vercel-styled interactive guide and toolset for training Large Language Models on Apple Silicon using the MLX framework.",
+  "requestFramePermissions": []
+}
